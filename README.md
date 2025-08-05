@@ -1,4 +1,4 @@
-<img src="C:\Users\Usuario\OneDrive\Imágenes\Álbum de cámara\Screenshot_20250730-202524.png" style="zoom:25%;" />
+
 
 # Ahora App for Android
 
